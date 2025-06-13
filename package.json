@@ -12,6 +12,7 @@
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4",
     "autoprefixer": "^10.4.21",
     "live-server": "^1.2.0",
     "postcss": "^8.5.4",
