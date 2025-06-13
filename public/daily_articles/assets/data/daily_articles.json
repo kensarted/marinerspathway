@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Ballast Tanks in Bulk Carriers",
+    "description": "Explains the role of ballast tanks in maintaining stability and trim for bulk carriers. Emphasizes critical actions such as securing cover plates, removing blanks, and ensuring hatch covers are properly managed during and after filling.",
+    "img_path": "assets/images/ballast_tanks_bulk_carrier.png",
+    "html_path": "articles/ballast_tanks_for_bc.html",
+    "author": "Capt. M. Singh",
+    "publication_date": "July 22, 2024"
+  },
+  {
+    "title": "Ballast Water Treatment Systems",
+    "description": "This document outlines the process of Ballast Water Treatment, detailing filtration and various secondary treatment methods like chemical disinfection, UV treatment, deoxygenation, heat treatment, and ultrasonic/cavitation treatment to remove and neutralize microorganisms in ballast water.",
+    "img_path": "assets/images/ballast_treatment_system.png",
+    "html_path": "articles/ballast_water_treatment.html",
+    "author": "Dr. A. Sharma",
+    "publication_date": "July 22, 2024"
+  },
+  {
+    "title": "Chief Officer Handover Documents (General Cargo Ships)",
+    "description": "Upon joining as Chief Officer on a General Cargo ship, you should ensure to take over the following essential documents: Ship’s Plans: Docking Plan, Plug Plan, General Arrangement, Shell Expansion, Fire Arrangement Plan, CO2 Plan, Load Density Plans, and Rigging Plan. Stability Criteria: Ship’s general particulars, deadweight (dwt) scale, cross curves of stability (KN and KG), statical stability information, tank capacities, ballast, fresh water, and fuel arrangements. Damage stability information and any computer loading/discharg",
+    "img_path": "assets/images/co_handover.jpg",
+    "html_path": "articles/co_handover_gc_vessels.html",
+    "author": "Capt. P. Lee",
+    "publication_date": "July 21, 2024"
+  },
+  {
+    "title": "Heavy Lift Loading Precautions",
+    "description": "As the Chief Officer, when scheduled to load a heavy lift, the following checks and precautions should be taken: Weight and Size Verification: Determine the total weight and overall size of the load. Ensure it is within the Safe Working Load (SWL) capacity of the ship’s heavy lift derrick or crane. If the load is being handled by a floating crane or shore-side facilities, verify the facilities' capabilities at the port of discharge.",
+    "img_path": "assets/images/heavy_lift_precaution.jpg",
+    "html_path": "articles/heavy_lift_precaution.html",
+    "author": "C/O J. Kim",
+    "publication_date": "July 21, 2024"
+  },
+  {
+    "title": "Risk Assessment Onboard the Ship",
+    "description": "Maritime Operations တွေမှာ Safety နဲ့ Pollition ကို လျှော့ချကာကွယ်ဖို့ အတွက် Risk Assessment ဟာလဲ အရေးကြီးတဲ့ အခန်းတစ်ခုအနေနဲ့ ပါဝင်နေပါတယ်။ ဒီ Article မှာ တော့ Risk Assessment ဆိုတာ ဘာလဲ ဆိုတာ နဲ့ ဘယ်လို စနစ်တကျ",
+    "img_path": "assets/images/RA.jpg",
+    "html_path": "articles/ra_onboard_the_ship.html",
+    "author": "NKZ",
+    "publication_date": "December 25, 2024"
+  },
+  {
+    "title": "Duties of the Safety Officer Aboard the Vessel",
+    "description": "A marine safety officer, often abbreviated as MSO, is a trained professional responsible for overseeing and enforcing safety regulations and protocols within the maritime industry. These individuals ensure that vessels, crew members, and passengers are protected from various hazards at sea.",
+    "img_path": "articles/Ship-Safety-Officer.png.webp",
+    "html_path": "articles/safety_officer_duties.html",
+    "author": "Ens. S. Davies",
+    "publication_date": "July 21, 2024"
+  },
+  {
+    "title": "Tropical Revolving Storms (TRS)",
+    "description": "မုန်တိုင်းဆိုတာကတော့ ကမ္ဘာပေါ်မှာ ဖြစ်လေ့ဖြစ်ထရှိတဲ့ မိုးလေဝသဖြစ်စဥ်တစ်ခုပါပဲ။ ဒါပေမယ့် မုန်တိုင်းအမျိုးအစားကိုတော့ အပူပိုင်း ဒေသတွေမှာဖြစ်တတ်တဲ့ အပူပိုင်းမုန်တိုင်း (Tropical Storm) နဲ့ သမပိုင်းဒေသ တစ်နည်းအားဖြင့် Mid latitude တွေမှာ Front လို့ခေါ်တဲ့ လေစိုင်ဇုံတွေကြောင့်ဖြစ်လာတဲ့ frontal depression ဆိုပြီးတော့ ခွဲခြားသတ်မှတ်ကြပါတယ်။",
+    "img_path": "assets/images/trs_1.jpg",
+    "html_path": "articles/TRS.html",
+    "author": "Yan Shin",
+    "publication_date": "August 10, 2024"
+  },
+  {
+    "title": "Tropical Revolving Storm (TRS) အပိုင်း (၂)",
+    "description": "equator ရဲ့တစ်ဖက်တစ်ချက်စီမှာရှိနေကြတဲ့ သမုဒ္ဒရာကြီးတွေ့ရဲ့ အလယ် Latitude အားဖြင့်ပြောရရင် 30N နဲ့ .....",
+    "img_path": "assets/images/trs_2.png",
+    "html_path": "articles/TRS_part2.html",
+    "author": "Yan Shin",
+    "publication_date": "August 11, 2024"
+  },
+  {
+    "title": "Tropical Revolving Storm အပိုင်း (၃)",
+    "description": "မြောက်ကမ္ဘာခြမ်းကနေ equator ရှိရာကို clockwise direction နဲ့ဆင်းလာတဲ့လေတွေဟာ NE direction နဲ့လာသလို တောင်ကမ္ဘာခြမ်းမှာဆိုရင်တော့ equator ရှိရာကို.......",
+    "img_path": "assets/images/TRS_3.jpg",
+    "html_path": "articles/TRS_part3.html",
+    "author": "Yan Shin",
+    "publication_date": "August 17, 2024"
+  }
+]

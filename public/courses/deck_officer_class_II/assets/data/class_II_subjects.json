@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Practical Navigation",
+    "description": "Covers celestial and coastal navigation, including the use of charts, position fixing, tides, and passage planning to ensure safe and efficient voyages.",
+    "relevant_html_": "content/practical_navigation.html",
+    "subtopics": [
+      {
+        "title": "Celestial Navigation Basics",
+        "relevant_html_": "content/practical_navigation/celestial_basics.html"
+      },
+      {
+        "title": "Coastal Navigation Principles",
+        "relevant_html_": "content/practical_navigation/coastal_principles.html"
+      },
+      {
+        "title": "Passage Planning Fundamentals",
+        "relevant_html_": "content/practical_navigation/passage_planning.html"
+      }
+    ]
+  },
+  {
+    "title": "Ship Construction and Stability",
+    "description": "Provides an understanding of ship structures, stability principles, buoyancy, stresses, and the safe loading and ballasting of vessels.",
+    "relevant_html_": "content/ship_construction_and_stability.html",
+    "subtopics": [
+      {
+        "title": "Ship Structural Components",
+        "relevant_html_": "content/ship_construction_and_stability/structural_components.html"
+      },
+      {
+        "title": "Transverse Stability",
+        "relevant_html_": "content/ship_construction_and_stability/transverse_stability.html"
+      }
+    ]
+  },
+  {
+    "title": "Meteorology",
+    "description": "Introduces weather systems, atmospheric pressure, wind patterns, tropical storms, and the interpretation of meteorological data for safe navigation.",
+    "relevant_html_": "content/meteorology.html",
+    "subtopics": []
+  },
+  {
+    "title": "Cargo Work",
+    "description": "Focuses on cargo handling, stowage, securing, ventilation, and the precautions necessary for the safe carriage of various types of cargoes.",
+    "relevant_html_": "content/cargo_work.html",
+    "subtopics": []
+  },
+  {
+    "title": "Magnetism, Electricity, and Gyro-Compass",
+    "description": "Explains the principles of magnetism and electricity as applied to ships, including the use and care of magnetic and gyro compasses for navigation.",
+    "relevant_html_": "content/magnetism_electricity_and_gyro_compass.html",
+    "subtopics": []
+  },
+  {
+    "title": "Maritime Legislation",
+    "description": "Reviews international and national maritime laws, conventions, and regulations governing ship operations, safety, and environmental protection.",
+    "relevant_html_": "content/maritime_legislation.html",
+    "subtopics": []
+  },
+  {
+    "title": "Convention on the International Regulations for Preventing Collisions at Sea, 1972 (COLREGs)",
+    "description": "Provides knowledge and understanding of the rules and regulations established to prevent collisions at sea, including navigation lights, shapes, sound signals, and the responsibilities of vessels under various conditions.",
+    "relevant_html_": "content/colregs.html",
+    "subtopics": [
+      {
+        "title": "Steering and Sailing Rules",
+        "relevant_html_": "content/colregs/steering_sailing.html"
+      },
+      {
+        "title": "Lights and Shapes",
+        "relevant_html_": "content/colregs/lights_shapes.html"
+      }
+    ]
+  },
+  {
+    "title": "IALA Maritime Buoyage System",
+    "description": "Introduces the International Association of Marine Aids to Navigation and Lighthouse Authorities (IALA) buoyage system, covering buoy types, marks, colors, and their meanings for safe navigation.",
+    "relevant_html_": "content/iala_maritime_buoyage_system.html",
+    "subtopics": []
+  },
+  {
+    "title": "Electronic Navigation Aids",
+    "description": "Covers the use and interpretation of electronic navigation systems such as radar, ARPA, GPS, echo sounders, and AIS for safe and effective ship navigation.",
+    "relevant_html_": "content/electronic_navigation_aids.html",
+    "subtopics": []
+  },
+  {
+    "title": "Engineering Knowledge",
+    "description": "Provides a basic understanding of shipboard machinery, propulsion systems, auxiliary equipment, and essential engineering practices relevant to deck officers.",
+    "relevant_html_": "content/engineering_knowledge.html",
+    "subtopics": []
+  }
+]

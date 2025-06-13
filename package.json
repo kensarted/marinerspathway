@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-website",
+  "version": "1.0.0",
+  "description": "A simple website project using Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/styles/main.css -o public/styles.css",
+    "watch": "tailwindcss build src/styles/main.css -o public/styles.css --watch",
+    "start": "live-server public",
+    "build:css": "tailwindcss -i ./src/styles/main.css -o ./public/output.css --watch"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "live-server": "^1.2.0",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.3.3"
+  }
+}

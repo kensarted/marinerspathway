@@ -1,0 +1,40 @@
+--- Folder Structure ---
+[docs]
+    ├── .project_structure_filter
+    ├── .project_structure_ignore
+    ├── project_structure.txt
+    └── project_structure_filtered.txt
+package-lock.json
+package.json
+postcss.config.js
+[public]
+    ├── [assets]
+        ├── [data]
+        └── [images]
+            ├── chief_officer_img.png
+            ├── home_page_img.jpg
+            ├── logo.png
+            ├── maritime_knowledge_img.jpg
+            ├── understanding-colregs.jpg
+            └── welcome_img.jpg
+    ├── [courses]
+        └── [deck_officer_class_II]
+            ├── [assets]
+                └── [data]
+                    └── class_II_subjects.json
+            ├── [cotent]
+                └── practical_navigation.html
+            ├── index.html
+            ├── index.js
+            ├── subject_details.html
+            └── subject_details_script.js
+    ├── index.html
+    ├── main.js
+    └── output.css
+README.md
+[src]
+    └── [styles]
+        └── main.css
+tailwind.config.js
+
+--- File Contents ---
